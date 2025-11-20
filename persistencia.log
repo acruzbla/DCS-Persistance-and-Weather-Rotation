@@ -1,0 +1,16 @@
+2025-11-19 18:24:54,737 [INFO] ==== Starting DCS Persistence Process ====
+2025-11-19 18:24:54,738 [ERROR] Failed to load config: [Errno 2] No such file or directory: '..\\dcs_persistence_config.json'
+2025-11-19 18:24:54,738 [ERROR] [Notifier] Failed to load config: [Errno 2] No such file or directory: '..\\dcs_persistence_config.json'
+2025-11-19 18:24:54,738 [ERROR] [Notifier] Config unavailable, cannot notify Discord.
+2025-11-19 18:26:50,181 [INFO] ==== Starting DCS Persistence Process ====
+2025-11-19 18:26:50,182 [ERROR] Failed to load config: [Errno 2] No such file or directory: '..\\dcs_persistence_config.json'
+2025-11-19 18:26:50,182 [ERROR] [Notifier] Failed to load config: [Errno 2] No such file or directory: '..\\dcs_persistence_config.json'
+2025-11-19 18:26:50,183 [ERROR] [Notifier] Config unavailable, cannot notify Discord.
+2025-11-19 18:26:56,672 [INFO] ==== Starting DCS Persistence Process ====
+2025-11-19 18:26:56,672 [ERROR] Failed to load config: [Errno 2] No such file or directory: '..\\dcs_persistence_config.json'
+2025-11-19 18:26:56,672 [ERROR] [Notifier] Failed to load config: [Errno 2] No such file or directory: '..\\dcs_persistence_config.json'
+2025-11-19 18:26:56,672 [ERROR] [Notifier] Config unavailable, cannot notify Discord.
+2025-11-19 18:29:07,378 [INFO] ==== Starting DCS Persistence Process ====
+2025-11-19 18:29:07,378 [ERROR] Failed to load config: [Errno 2] No such file or directory: '..\\dcs_persistence_config.json'
+2025-11-19 18:29:07,379 [ERROR] [Notifier] Failed to load config: [Errno 2] No such file or directory: '..\\dcs_persistence_config.json'
+2025-11-19 18:29:07,379 [ERROR] [Notifier] Config unavailable, cannot notify Discord.

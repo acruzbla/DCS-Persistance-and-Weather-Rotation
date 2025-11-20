@@ -1,0 +1,15 @@
+{
+    "mission_path": "C:/Users/dcsadmin/Saved Games/DCS.dcs_serverrelease/missions/MA_Foothold_SI_extended_2.5.1_Coldwar-Modern.miz",
+    "hour_persistence_enabled": true,
+    "weather_rotation_enabled": true,
+    "weather_season": "realistic",
+    "weather_bad_weather_percentage": 30,
+    "backup_saves_enabled": true,
+    "backup_saves_path": "D:/BackupSaves",
+    "backup_saves_discord_enabled": true,
+    "backup_saves_discord_webhook": "https://discordapp.com/api/webhooks/1435311737480937472/uJHFerf8hRmiAEC6icyZz6czRaz-TECCCRP4Aoi-l3_g5OIb6j1tRSnkmNTXz12QtAw4",
+    "execution_time": "06:00",
+    "send_errors_to_discord": true,
+    "error_discord_webhook": "https://discordapp.com/api/webhooks/1435311737480937472/uJHFerf8hRmiAEC6icyZz6czRaz-TECCCRP4Aoi-l3_g5OIb6j1tRSnkmNTXz12QtAw4",
+    "next_action": "save_and_apply_next_rotation"
+}
